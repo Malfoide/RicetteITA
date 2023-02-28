@@ -58,5 +58,7 @@ h2 {
 }
 
 img {
+	display: inline-block;
 	block-size: 600px;
+	image-resolution: 600px;
 }
