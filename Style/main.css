@@ -56,3 +56,7 @@ h2 {
 #content h4{
 	border-bottom: #599a68 solid 3px;
 }
+
+img {
+	block-size: 600px;
+}
